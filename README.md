@@ -1,2 +1,2 @@
 # ToDoList_Android Application
-Project made for a Faculty subject. A small To-do List application.
+Project made for a University subject. A small To-do List application.
